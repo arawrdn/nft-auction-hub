@@ -1,0 +1,23 @@
+{
+  "name": "nft-auction-hub",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@reown/appkit": "^1.6.8",
+    "@reown/appkit-adapter-ethers5": "^1.6.8",
+    "@reown/walletkit": "1.1.2",
+    "@walletconnect/client": "1.8.0",
+    "@walletconnect/core": "2.17.0",
+    "@walletconnect/legacy-utils": "2.0.0",
+    "@walletconnect/react-native-compat": "2.17.0",
+    "@walletconnect/types": "2.17.0",
+    "@walletconnect/utils": "2.17.0",
+    "ethers": "^5.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
