@@ -29,7 +29,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/nft-auction-hub.git
+git clone https://github.com/arawrdn/nft-auction-hub.git
 cd nft-auction-hub
 
 # Install dependencies
